@@ -1,4 +1,4 @@
-# State-of-Art model for detection of fraulent transactions
+# State-of-Art model for detection of fraudulent transactions
 
 ## Main objective of the Project
   The main objective of the project was to inflate the fraud rate from 2.5% (1356/54778) to 5% 
