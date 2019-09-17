@@ -3,7 +3,8 @@
 ## Main objective of the Project
   The main objective of the project was to inflate the fraud rate from 2.5% (1356/54778) to 5% 
   but I achieved 6.6% (3615/54778) using K-Nearest Neighbors algorithm fined tuned with 7 neighbors using K-Fold Cross Validation
-  
+## Dataset
+   The dataset belongs to a local bank in England not publically available anywhere and is confidential
 ## Data Exploration
   
   In this section missing values handling and transactions were identified in which most fraudulent activities occurred
